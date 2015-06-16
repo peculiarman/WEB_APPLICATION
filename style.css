@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+ 
+.search {
+	font-size: 36px;
+	font-style: italic;
+	font-weight: bold;
+	color: #09F;
+}
+.search_text {
+	background-color:#E2E2E2;
+	text-align: left;
+	height:30px;
+	width:200px;
+	border-radius:50px;
+}
